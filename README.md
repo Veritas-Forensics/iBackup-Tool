@@ -24,7 +24,7 @@ A professional PyQt6-based iOS device management application that provides compr
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd usb_connect
+cd iBackup-Tool
 ```
 
 2. Install dependencies:
